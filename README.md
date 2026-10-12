@@ -18,8 +18,9 @@ I'm a **Student Developer** passionate about software development, web technolog
 ## 🛠️ Languages & Technologies
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
 </p>
+
 
 ---
 
