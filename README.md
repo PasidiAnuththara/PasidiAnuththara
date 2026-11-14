@@ -1,67 +1,69 @@
-# Hi, I'm Pasidi Anuththara. 👋
-
-### 💻 Student Developer | Software Engineering | AI Enthusiast
-
-I'm a **Student Developer** passionate about software development, web technologies, and artificial intelligence.
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 Student Developer
-* 🌐 Exploring **Web Development**
-* 🚀 Learning by building real-world projects
-* 📚 Continuously improving my programming and problem-solving skills
-
----
-
-## 🛠️ Languages & Technologies
+# Hi, I'm Pasidi Anuththara! 🎀
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=ffb6c1&height=180&section=header&text=Welcome%20to%20my%20Profile!&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-
----
-
-## 🔧 Tools
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
----
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiAnuththara&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+  🌸 Dreaming • Coding • Creating • Growing 🌸
 </p>
 
 ---
 
-## 🎯 Goals
+## 🌷 About Me
 
-* 🚀 Build real-world applications
-* 💻 Become a skilled Software Engineer
-* 🌐 Improve my Full Stack Development skills
-* 🤝 Contribute to Open Source
+- 🎀 Student Developer
+- 💻 Passionate about coding & technology
+- 🌸 Exploring Web Development & AI
+- ✨ Always learning and creating new things
 
 ---
 
-## 📫 Connect With Me
+## 💻 Languages & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql&theme=light" />
+</p>
+
+---
+
+## 🛠️ Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" />
+</p>
+
+---
+
+## 🌸 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiAnuththara&theme=rose&hide_border=true&background=FFF5F7&ring=FF69B4&fire=FF69B4&currStreakLabel=DB7093" />
+</p>
+
+---
+
+## 🦋 My Goals
+- 💗 Build creative real-world applications
+- 🌷 Become a skilled Software Engineer
+- ✨ Explore AI and innovative technologies
+
+---
+
+## 💌 Let's Connect!
 
 <p align="center">
   <a href="mailto:anuththarapasidi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Gmail-FF69B4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Learning • Building • Improving</b>
+  💕 <b>Code • Create • Inspire</b> 💕
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ffb6c1&height=120&section=footer" />
 </p>
