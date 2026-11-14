@@ -41,6 +41,14 @@ I'm a **Student Developer** passionate about software development, web technolog
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiAnuththara&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
+
 ## 📫 Connect With Me
 
 <p align="center">
