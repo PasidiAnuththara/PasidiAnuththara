@@ -37,19 +37,13 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=PasidiAnuththara&show_icons=true&theme=default&bg_color=FFF5F7&title_color=DB7093&icon_color=FF69B4&text_color=8B5E6B&hide_border=true" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PasidiAnuththara&layout=compact&bg_color=FFF5F7&title_color=DB7093&text_color=8B5E6B&hide_border=true" height="165" />
-</p>
-
----
-
 ## 🌸 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiAnuththara&theme=rose&hide_border=true&background=FFF5F7&ring=FF69B4&fire=FF69B4&currStreakLabel=DB7093" />
+</p>
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=PasidiAnuththara&layout=compact&bg_color=FFF5F7&title_color=DB7093&text_color=8B5E6B&hide_border=true" height="165" />
 </p>
 
 ---
