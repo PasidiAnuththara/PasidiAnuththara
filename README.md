@@ -31,6 +31,13 @@ I'm a **Student Developer** passionate about software development, web technolog
 </p>
 
 ---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiAnuththara&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 ## 🎯 Goals
 
@@ -38,14 +45,6 @@ I'm a **Student Developer** passionate about software development, web technolog
 * 💻 Become a skilled Software Engineer
 * 🌐 Improve my Full Stack Development skills
 * 🤝 Contribute to Open Source
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiAnuththara&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-</p>
 
 ---
 
