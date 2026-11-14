@@ -38,7 +38,7 @@
 ## 🌸 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiAnuththara&theme=rose&hide_border=true&ring=FF69B4&fire=FF69B4&currStreakLabel=DB7093" />
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=PasidiAnuththara&theme=rose&hide_border=true&background=FFF5F7&ring=FF69B4&fire=FF69B4&currStreakLabel=DB7093" />
 </p> 
 
 ---
